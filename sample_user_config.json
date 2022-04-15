@@ -1,11 +1,18 @@
 {
-    "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
-    },
-    "synoinfo": {},
-    "ramdisk_copy": {},
-    "extensions": []
+  "extra_cmdline": {
+    "pid": "0x0001",
+    "vid": "0x46f4",
+    "sn": "D8SV3DDIKUMD3",
+    "mac1": "02113212b503",
+    "mac2": "02113212b504",
+    "mac3": "02113212b505",
+    "mac4": "02113212b506",
+    "netif_num": "4"
+  },
+  "synoinfo": {
+  "maxlanport":"4",
+  "esataportcfg":"0xf000",
+  "internalportcfg":"0xfff"  
+  },
+  "ramdisk_copy": {}
 }
